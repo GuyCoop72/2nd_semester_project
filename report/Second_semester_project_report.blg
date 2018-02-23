@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Second_semester_project_report.aux
+The style file: alpha.bst
+Database file #1: full_bibliography.bib
+Warning--empty journal in Dong2017
+Warning--empty journal in Elgammal2017
+Warning--there's a number but no volume in Elgammal2017
+Warning--there's a number but no volume in Goodfellow2014
+Warning--empty journal in Lipton2015
+Warning--empty journal in Radford2015
+Warning--empty publisher in Wundt1874
+Warning--empty journal in Yang2017
+Warning--empty journal in Zaremba2014
+Warning--there's a number but no volume in Zaremba2014
+You've used 9 entries,
+            2543 wiz_defined-function locations,
+            610 strings with 6123 characters,
+and the built_in function-call counts, 3900 in all, are:
+= -- 373
+> -- 245
+< -- 3
++ -- 90
+- -- 90
+* -- 308
+:= -- 679
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 67
+chr.to.int$ -- 9
+cite$ -- 19
+duplicate$ -- 135
+empty$ -- 232
+format.name$ -- 99
+if$ -- 752
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 49
+num.names$ -- 27
+pop$ -- 72
+preamble$ -- 1
+purify$ -- 77
+quote$ -- 0
+skip$ -- 109
+stack$ -- 0
+substring$ -- 161
+swap$ -- 13
+text.length$ -- 3
+text.prefix$ -- 1
+top$ -- 0
+type$ -- 68
+warning$ -- 10
+while$ -- 38
+width$ -- 13
+write$ -- 110
+(There were 10 warnings)

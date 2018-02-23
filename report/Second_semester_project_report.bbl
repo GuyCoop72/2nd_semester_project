@@ -1,0 +1,57 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{GPAM{\etalchar{+}}14}
+
+\bibitem[DHYY17]{Dong2017}
+Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang, and Yi-Hsuan Yang.
+\newblock {MuseGAN: Multi-track Sequential Generative Adversarial Networks for
+  Symbolic Music Generation and Accompaniment}.
+\newblock 2017.
+
+\bibitem[ELEM17]{Elgammal2017}
+Ahmed Elgammal, Bingchen Liu, Mohamed Elhoseiny, and Marian Mazzone.
+\newblock {CAN: Creative Adversarial Networks, Generating "Art" by Learning
+  About Styles and Deviating from Style Norms}.
+\newblock (Iccc):1--22, 2017.
+
+\bibitem[GPAM{\etalchar{+}}14]{Goodfellow2014}
+Ian~J Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock {Generative Adversarial Networks}.
+\newblock {\em Nips'2014}, (Arxiv report 1406.2661), 2014.
+
+\bibitem[LBE15]{Lipton2015}
+Zachary~C. Lipton, John Berkowitz, and Charles Elkan.
+\newblock {A Critical Review of Recurrent Neural Networks for Sequence
+  Learning}.
+\newblock pages 1--38, 2015.
+
+\bibitem[RMC15]{Radford2015}
+Alec Radford, Luke Metz, and Soumith Chintala.
+\newblock {Unsupervised Representation Learning with Deep Convolutional
+  Generative Adversarial Networks}.
+\newblock pages 1--16, 2015.
+
+\bibitem[SBY17]{Shi2017}
+Baoguang Shi, Xiang Bai, and Cong Yao.
+\newblock {An End-to-End Trainable Neural Network for Image-Based Sequence
+  Recognition and Its Application to Scene Text Recognition}.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  39(11):2298--2304, 2017.
+
+\bibitem[Wun74]{Wundt1874}
+Willhelm~Max Wundt.
+\newblock {\em {Grundz{\"{u}}ge de physiologischen Psychologie}}.
+\newblock 1874.
+
+\bibitem[YCY17]{Yang2017}
+Li-Chia Yang, Szu-Yu Chou, and Yi-Hsuan Yang.
+\newblock {MidiNet: A Convolutional Generative Adversarial Network for
+  Symbolic-domain Music Generation}.
+\newblock 2017.
+
+\bibitem[ZSV14]{Zaremba2014}
+Wojciech Zaremba, Ilya Sutskever, and Oriol Vinyals.
+\newblock {Recurrent Neural Network Regularization}.
+\newblock (2013):1--8, 2014.
+
+\end{thebibliography}
